@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="retoBanitsmo" skipped="0" tests="2" time="70.52" timestamp="2021-08-03 12:22:30"><testcase name="Read a specific PDF document on the banitsmo website"/><testcase name="Download a specific PDF document on the Banistmo page"/></testsuite>

@@ -1,0 +1,6 @@
+co/com/choucair/retobanitsmo/stepdefinitions/MomentosBienestarStepDefinitions.java
+ co.com.choucair.retobanitsmo.stepdefinitions.MomentosBienestarStepDefinitions
+co/com/choucair/retobanitsmo/runners/RunnerTags.java
+ co.com.choucair.retobanitsmo.runners.RunnerTags
+co/com/choucair/retobanitsmo/stepdefinitions/RetoBanitsmoStepDefinitios.java
+ co.com.choucair.retobanitsmo.stepdefinitions.RetoBanitsmoStepDefinitios

@@ -1,0 +1,18 @@
+co/com/choucair/retobanitsmo/questions/AnswerMomentos.java
+ co.com.choucair.retobanitsmo.questions.AnswerMomentos
+co/com/choucair/retobanitsmo/userinterface/MappingMomentos.java
+ co.com.choucair.retobanitsmo.userinterface.MappingMomentos
+co/com/choucair/retobanitsmo/interactions/GoToWindow.java
+ co.com.choucair.retobanitsmo.interactions.GoToWindow
+co/com/choucair/retobanitsmo/tasks/OpenUp.java
+ co.com.choucair.retobanitsmo.tasks.OpenUp
+co/com/choucair/retobanitsmo/tasks/SearchDocument.java
+ co.com.choucair.retobanitsmo.tasks.SearchDocument
+co/com/choucair/retobanitsmo/tasks/SearchMomentos.java
+ co.com.choucair.retobanitsmo.tasks.SearchMomentos
+co/com/choucair/retobanitsmo/questions/Answer.java
+ co.com.choucair.retobanitsmo.questions.Answer
+co/com/choucair/retobanitsmo/userinterface/BanitsmoPage.java
+ co.com.choucair.retobanitsmo.userinterface.BanitsmoPage
+co/com/choucair/retobanitsmo/userinterface/MappingSearchDocument.java
+ co.com.choucair.retobanitsmo.userinterface.MappingSearchDocument
